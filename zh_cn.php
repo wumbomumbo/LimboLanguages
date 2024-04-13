@@ -120,5 +120,6 @@ $lang = array(
     "invitecode" => "邀请代码",
     "creationtime" => "已创建",
     "usedby" => "使用者",
-    "generatecode" => "生成代码"
+    "generatecode" => "生成代码",
+    "portuguese" => "葡萄牙语",
 );

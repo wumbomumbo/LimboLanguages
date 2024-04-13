@@ -120,4 +120,5 @@ $lang = array(
     "creationtime" => "Criado",
     "usedby" => "Usado Por",
     "generatecode" => "Gerar Código",
+    "portuguese" => "Português",
 );

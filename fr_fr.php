@@ -120,5 +120,6 @@ $lang = array(
     "invitecode" => "Code d'invitation",
     "creationtime" => "Créé",
     "usedby" => "Utilisé par",
-    "generatecode" => "Générer du code"
+    "generatecode" => "Générer du code",
+    "portuguese" => "Portugais",
 );
