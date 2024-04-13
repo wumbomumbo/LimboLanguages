@@ -1,5 +1,5 @@
 <?php
-// Default language
+// Portuguese (thanks crouch)
 $lang = array(
     "games" => "Jogos",
     "catalog" => "Catálogo",
@@ -26,7 +26,7 @@ $lang = array(
     "spanish" => "Espanhol",
     "needhelpwithsomething" => "Precisa de ajuda com alguma coisa?",
     "contactsupport" => "Contate Suporte",
-    "allgameclientsareownedby" => "Todos os clientes do jogo são propriedade de \"Roblox Corporation"\.",
+    "allgameclientsareownedby" => "Todos os clientes do jogo são propriedade de \"Roblox Corporation\".",
     "hello" => "Olá",
     "recentlyplayed" => "Jogado Recentemente",
     "favoritegames" => "Jogos Favoritos",
