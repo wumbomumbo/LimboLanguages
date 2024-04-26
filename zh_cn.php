@@ -122,4 +122,9 @@ $lang = array(
     "usedby" => "使用者",
     "generatecode" => "生成代码",
     "portuguese" => "葡萄牙语",
+    "packages" => "套餐",
+    "yourpackages" => "您的包裹",
+    "createapackages" => "创建包",
+    "faces" => "面孔",
+    "gears" => "齿轮",
 );

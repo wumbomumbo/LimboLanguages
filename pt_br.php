@@ -122,4 +122,9 @@ $lang = array(
     "usedby" => "Usado Por",
     "generatecode" => "Gerar Código",
     "portuguese" => "Português",
+    "packages" => "Pacotes",
+    "yourpackages" => "Seus pacotes",
+    "createapackages" => "Crie um pacote",
+    "faces" => "Rostos",
+    "gears" => "Engrenagens",
 );
