@@ -170,4 +170,5 @@ $lang = array(
     "buy" => "Buy",
     "purchased" => "Purchased",
     "type" => "Type",
+    "banned" => "Banned",
 );
