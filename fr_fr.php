@@ -170,5 +170,8 @@ $lang = array(
     "buy" => "Acheter",
     "purchased" => "Achetée",
     "type" => "Taper",
-    "banned" => "Banni"
+    "banned" => "Banni",
+    "nofriendsfound" => "Aucun ami trouvé.",
+    "somethingnotright" => "Quelque chose ne va pas ?",
+    "letusknow" => "Faites-le nous savoir !",
 );

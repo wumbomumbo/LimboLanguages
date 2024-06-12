@@ -170,5 +170,8 @@ $lang = array(
     "buy" => "买",
     "purchased" => "已购买",
     "type" => "类型",
-    "banned" => "禁止"
+    "banned" => "禁止",
+    "nofriendsfound" => "未找到好友。",
+    "somethingnotright" => "有什么不对劲吗？",
+    "letusknow" => "请告诉我们！",
 );

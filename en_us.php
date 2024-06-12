@@ -171,4 +171,7 @@ $lang = array(
     "purchased" => "Purchased",
     "type" => "Type",
     "banned" => "Banned",
+    "nofriendsfound" => "No friends found.",
+    "somethingnotright" => "Something not right?",
+    "letusknow" => "Let us know!",
 );
