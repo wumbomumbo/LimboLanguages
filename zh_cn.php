@@ -107,8 +107,6 @@ $lang = array(
     "changepassword" =>  "更改密码",
     "lightmode" =>  "灯光模式（已弃用）",
     "darkmode" =>  "暗模式",
-    "classicmode" => "经典主题",
-    "vapormode" => "蒸汽主题",
     "savechanges" =>  "保存更改",
     "enteryournewdisplayname" =>  "输入新的显示名称",
     "enteryournewusername" =>  "输入新的用户名",
@@ -174,4 +172,5 @@ $lang = array(
     "nofriendsfound" => "未找到好友。",
     "somethingnotright" => "有什么不对劲吗？",
     "letusknow" => "请告诉我们！",
+    "all" => "全部",
 );

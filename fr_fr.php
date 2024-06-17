@@ -107,8 +107,6 @@ $lang = array(
     "changepassword" => "Modifier le mot de passe",
     "lightmode" => "Mode lumière (obsolète)",
     "darkmode" => "Mode sombre",
-    "classicmode" => "Thème classique",
-    "vapormode" => "Thème Vapeur",
     "savechanges" => "Enregistrer les modifications",
     "enteryournewdisplayname" => "Saisissez votre nouveau nom d'affichage",
     "enteryournewusername" => "Entrez votre nouveau nom d'utilisateur",
@@ -174,4 +172,6 @@ $lang = array(
     "nofriendsfound" => "Aucun ami trouvé.",
     "somethingnotright" => "Quelque chose ne va pas ?",
     "letusknow" => "Faites-le nous savoir !",
+    "all" => "Tout",
+    
 );
