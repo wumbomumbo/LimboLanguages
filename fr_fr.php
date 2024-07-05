@@ -25,6 +25,7 @@ $lang = array(
     "french" => "Français",
     "spanish" => "Espagnol",
     "chinesesimplified" => "Chinois simplifié)",
+    "piratespeak" => "Parler des pirates",
     "needhelpwithsomething" => "Besoin d'aide ?",
     "contactsupport" => "Support de contact",
     "allgameclientsareownedby" => "Tous les clients du jeu sont la propriété de \"Roblox Corporation\".",
@@ -173,5 +174,7 @@ $lang = array(
     "somethingnotright" => "Quelque chose ne va pas ?",
     "letusknow" => "Faites-le nous savoir !",
     "all" => "Tout",
-    
+    "loadmore" => "Charger plus",
+    "refresh" => "Rafraîchir",
+    "arabic" => "Arabe",
 );

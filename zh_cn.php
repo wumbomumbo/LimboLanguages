@@ -25,6 +25,7 @@ $lang = array(
     "french" =>  "法语",
     "spanish" => "西班牙语",
     "chinesesimplified" => "简体中文）",
+    "piratespeak" => "海盗说话",
     "needhelpwithsomething" =>  "需要帮助吗？",
     "contactsupport" =>  "联系支持",
     "allgameclientsareownedby" =>  "所有游戏客户端均为\"Roblox Corporation\"所有。",
@@ -173,4 +174,7 @@ $lang = array(
     "somethingnotright" => "有什么不对劲吗？",
     "letusknow" => "请告诉我们！",
     "all" => "全部",
+    "loadmore" => "加载更多",
+    "refresh" => "刷新",
+    "arabic" => "阿拉伯",
 );

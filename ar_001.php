@@ -173,4 +173,5 @@ $lang = array(
     "somethingnotright" => "شيء ما ليس صحيحا؟",
     "letusknow" => "دعنا نعرف",
     "all" => "كل شيئ",
+    "arabic" => "عربي",
 );

@@ -174,4 +174,7 @@ $lang = array(
     "somethingnotright" => "Somethin' not right?",
     "letusknow" => "Let us know!",
     "all" => "All",
+    "loadmore" => "Load More",
+    "refresh" => "Refresh",
+    "arabic" => "Arabic",
 );
