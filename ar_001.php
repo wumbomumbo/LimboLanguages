@@ -25,6 +25,7 @@ $lang = array(
     "french" => "فرنسية",
     "spanish" => "إسبانية",
     "chinesesimplified" => " صينية (مبسطة)",
+    "piratespeak" => "القراصنة يتكلمون",
     "needhelpwithsomething" => "هل تحتاج المساعدة في شيئ؟",
     "contactsupport" => "إصل بالمساعدة",
     "allgameclientsareownedby" => "كل التحميلات ممتلكة من طرف شركة روبلوكس",
@@ -173,5 +174,7 @@ $lang = array(
     "somethingnotright" => "شيء ما ليس صحيحا؟",
     "letusknow" => "دعنا نعرف",
     "all" => "كل شيئ",
+    "loadmore" => "تحميل المزيد",
+    "refresh" => "ينعش",
     "arabic" => "عربي",
 );
