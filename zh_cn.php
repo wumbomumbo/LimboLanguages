@@ -170,4 +170,6 @@ $lang = array(
     "loadmore" => "加载更多",
     "refresh" => "刷新",
     "arabic" => "阿拉伯",
+    "version" => "版本",
+    "whatsnew" => "什么是新的？",
 );

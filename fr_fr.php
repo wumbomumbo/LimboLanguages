@@ -170,4 +170,5 @@ $lang = array(
     "loadmore" => "Charger plus",
     "refresh" => "Rafraîchir",
     "arabic" => "Arabe",
+    "version" => "Quoi de neuf?",
 );

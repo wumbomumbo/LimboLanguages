@@ -170,4 +170,6 @@ $lang = array(
     "loadmore" => "Load More",
     "refresh" => "Refresh",
     "arabic" => "Arabic",
+    "version" => "Version",
+    "whatsnew" => "What's New?",
 );
