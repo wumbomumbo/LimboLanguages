@@ -172,4 +172,7 @@ $lang = array(
     "arabic" => "Arabyan",
     "version" => "Voyage Version",
     "whatsnew" => "What’s New in Port?",
+    "requestingserver" => "Summonin' a ship...",
+    "serverfoundpleasewait" => "Ship spotted! Batten down the hatches...",
+    "serverready" => "Ship's ready! Boardin' now...",
 );

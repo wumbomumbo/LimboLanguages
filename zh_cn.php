@@ -172,4 +172,7 @@ $lang = array(
     "arabic" => "阿拉伯",
     "version" => "版本",
     "whatsnew" => "什么是新的？",
+    "requestingserver" => "正在请求服务器...",
+    "serverfoundpleasewait" => "已找到服务器，请等待...",
+    "serverready" => "服务器就绪！正在加入……",
 );

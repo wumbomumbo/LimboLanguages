@@ -172,4 +172,7 @@ $lang = array(
     "arabic" => "Arabic",
     "version" => "Version",
     "whatsnew" => "What's New?",
+    "requestingserver" => "Requesting Server...",
+    "serverfoundpleasewait" => "Server found, please wait...",
+    "serverready" => "Server ready! Joining...",
 );

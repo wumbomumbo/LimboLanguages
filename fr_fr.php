@@ -171,4 +171,7 @@ $lang = array(
     "refresh" => "Rafraîchir",
     "arabic" => "Arabe",
     "version" => "Quoi de neuf?",
+    "requestingserver" => "Demande de serveur...",
+    "serverfoundpleasewait" => "Serveur trouvé, veuillez patienter...",
+    "serverready" => "Serveur prêt ! Rejoindre…",
 );

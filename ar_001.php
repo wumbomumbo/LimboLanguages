@@ -172,4 +172,7 @@ $lang = array(
     "arabic" => "عربي",
     "version" => "إصدار",
     "whatsnew" => "ما الجديد؟",
+    "requestingserver" => "طلب الخادم...",
+    "serverfoundpleasewait" => "تم العثور على الخادم، يرجى الانتظار...",
+    "serverready" => "الخادم جاهز! الانضمام...",
 );
