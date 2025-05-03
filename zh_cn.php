@@ -178,4 +178,12 @@ $lang = array(
     "following" => "下列的",
     "followers" => "关注者",
     "friendrequests" => "好友请求",
+    "veteran" => "老将",
+    "veteranbadge" => "此徽章适用于在 Limbo 工作超过一年的人员。",
+    "administrator" => "行政人员",
+    "administratorbadge" => "此徽章适用于 Limbo 管理团队的成员。如果有人自称是管理员，但没有此徽章，请告知我们。",
+    "ugccreator" => "UGC 创作者",
+    "ugccreatorbadge" => "此徽章适用于为 Limbo 创建目录项目的人。",
+    "inviter" => "邀请人",
+    "inviterbadge" => "此徽章是在 2022 年至 2024 年的邀请系统期间颁发的。现在无法再获得此徽章。",
 );

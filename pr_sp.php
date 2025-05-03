@@ -178,4 +178,12 @@ $lang = array(
     "following" => "Me Mates",
     "followers" => "Scallywags Followin’ Me",
     "friendrequests" => "Parley Invites",
+    "veteran" => "Old Salt",
+    "veteranbadge" => "Arrr, this badge be fer those hearty souls who've sailed with Limbo fer o'er a year!",
+    "administrator" => "Quartermaster",
+    "administratorbadge" => "This badge be fer them what serve on Limbo's admin crew. If a scallywag claims to be admin but lacks this badge, sound the horn and let us know, matey!",
+    "ugccreator" => "Treasure Maker",
+    "ugccreatorbadge" => "This badge be fer them clever hands that craft fine Catalog booty fer Limbo.",
+    "inviter" => "Ship's Recruiter",
+    "inviterbadge" => "This badge was won durin' the great invite voyage, runnin' from 2022 to 2024. Ye can't earn it no more, the winds have changed!",
 );

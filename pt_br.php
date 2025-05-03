@@ -178,4 +178,12 @@ $lang = array(
     "following" => "Seguindo",
     "followers" => "Seguidores",
     "friendrequests" => "Solicitações de amizade",
+    "veteran" => "Veterano",
+    "veteranbadge" => "Este emblema é para aqueles que estão no Limbo há mais de um ano.",
+    "administrator" => "Administrador",
+    "administratorbadge" => "Este distintivo é para aqueles que fazem parte da equipe de administração do Limbo. Se alguém afirma ser administrador, mas não possui este distintivo, por favor, nos avise.",
+    "ugccreator" => "Criador de UGC",
+    "ugccreatorbadge" => "Este emblema é para aqueles que criam itens de catálogo para o Limbo.",
+    "inviter" => "Convidador",
+    "inviterbadge" => "Este emblema foi concedido durante o sistema de convites, que vigorou de 2022 a 2024. Não é mais possível ganhar este emblema.",
 );

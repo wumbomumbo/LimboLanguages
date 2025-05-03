@@ -178,4 +178,12 @@ $lang = array(
     "following" => "Siguiente",
     "followers" => "Seguidores",
     "friendrequests" => "Solicitudes de amistad",
+    "veteran" => "Veterano",
+    "veteranbadge" => "Esta insignia es para aquellos que han estado con Limbo durante más de un año.",
+    "administrator" => "Administrador",
+    "administratorbadge" => "Esta insignia es para quienes forman parte del equipo de administración de Limbo. Si alguien dice ser administrador, pero no tiene esta insignia, por favor, avísenos.",
+    "ugccreator" => "Creador de UGC",
+    "ugccreatorbadge" => "Esta insignia es para aquellos que crean elementos de catálogo para Limbo.",
+    "inviter" => "Invitador",
+    "inviterbadge" => "Esta insignia se otorgó durante el sistema de invitación, que funcionó de 2022 a 2024. Ya no es posible obtener esta insignia.",
 );

@@ -178,4 +178,12 @@ $lang = array(
     "following" => "Following",
     "followers" => "Followers",
     "friendrequests" => "Friend Requests",
+    "veteran" => "Veteran",
+    "veteranbadge" => "This badge is for those who have been with Limbo for over a year.",
+    "administrator" => "Administrator",
+    "administratorbadge" => "This badge is for those who are part of the Limbo admin team. If someone claims to be admin, but does not have this badge, please let us know.",
+    "ugccreator" => "UGC Creator",
+    "ugccreatorbadge" => "This badge is for those who create Catalog items for Limbo.",
+    "inviter" => "Inviter",
+    "inviterbadge" => "This badge was awarded during the invite system, which ran from 2022 to 2024. It is no longer possible to earn this badge.",
 );
