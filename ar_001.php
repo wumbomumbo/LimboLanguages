@@ -20,7 +20,7 @@ $lang = array(
     "groups" => "مجموعات",
     "clientdownloads" => "تحميل",
     "downloads" => "تحميلات",
-    "language" => "لغة (غير مكتملة)",
+    "language" => "لغة",
     "english" => "إنجلييزية",
     "french" => "فرنسية",
     "spanish" => "إسبانية",
@@ -175,4 +175,7 @@ $lang = array(
     "requestingserver" => "طلب الخادم...",
     "serverfoundpleasewait" => "تم العثور على الخادم، يرجى الانتظار...",
     "serverready" => "الخادم جاهز! الانضمام...",
+    "following" => "التالي",
+    "followers" => "المتابعون",
+    "friendrequests" => "طلبات الصداقة",
 );

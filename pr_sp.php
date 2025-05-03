@@ -20,7 +20,7 @@ $lang = array(
     "groups" => "Crews",
     "clientdownloads" => "Ship Tools",
     "downloads" => "Grab Booty",
-    "language" => "Lingo (Still Brewin')",
+    "language" => "Lingo",
     "english" => "Landlubber Talk",
     "french" => "Fancy Talk",
     "spanish" => "Español del Mar",
@@ -175,4 +175,7 @@ $lang = array(
     "requestingserver" => "Summonin' a ship...",
     "serverfoundpleasewait" => "Ship spotted! Batten down the hatches...",
     "serverready" => "Ship's ready! Boardin' now...",
+    "following" => "Me Mates",
+    "followers" => "Scallywags Followin’ Me",
+    "friendrequests" => "Parley Invites",
 );

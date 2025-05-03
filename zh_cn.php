@@ -20,7 +20,7 @@ $lang = array(
     "groups" =>  "团体",
     "clientdownloads" =>  "客户下载",
     "downloads" =>  "下载",
-    "language" =>  "语言（WIP）",
+    "language" =>  "语言",
     "english" =>  "英语",
     "french" =>  "法语",
     "spanish" => "西班牙语",
@@ -175,4 +175,7 @@ $lang = array(
     "requestingserver" => "正在请求服务器...",
     "serverfoundpleasewait" => "已找到服务器，请等待...",
     "serverready" => "服务器就绪！正在加入……",
+    "following" => "下列的",
+    "followers" => "关注者",
+    "friendrequests" => "好友请求",
 );
