@@ -26,6 +26,7 @@ $lang = array(
     "spanish" => "Spwanish",
     "chinesesimplified" => "Chiwnese (Simplifwied)",
     "piratespeak" => "Piwate Spweak Yawwr!!",
+    "sigma" => "Sigwa",
     "allgameclientsareownedby" => "Aww gwames cliewnts by the \"Roblox Corporation\".",
     "hello" => "Hewwo!!! Haii!!!",
     "recentlyplayed" => "Wecentwy RPed on x3",
@@ -188,4 +189,5 @@ $lang = array(
     "createavideoad" => "Create a Video Ad",
     "itemconfiguration" => "Item Configuration",
     "initializing" => "Initiawlawzing...",
+    "noscript" => "Sowwy, Limbo weally needs JavaScwipt to work properly. Pwease enable it in your bwowser.",
 );
