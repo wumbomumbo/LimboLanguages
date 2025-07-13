@@ -1,10 +1,10 @@
 <?php
-// Default language
+// Sigma language..
 $lang = array(
     "games" => "Experiences",
     "catalog" => "Drip",
     "develop" => "Develop",
-    "cheese" => "$DADDY",
+    "cheese" => "\$DADDY",
     "search" => "Search",
     "login" => "Return to the Sigma Grind",
     "signup" => "Begin the Sigma Grind",
@@ -27,6 +27,7 @@ $lang = array(
     "chinesesimplified" => "WOKE LIBERAL LANGUAGE 🤮🤮🤮",
     "piratespeak" => "WOKE LIBERAL LANGUAGE 🤮🤮🤮",
     "sigma" => "Sigma",
+    "furryspeak" => "WOKE LIBERAL LANGUAGE 🤮🤮🤮",
     "allgameclientsareownedby" => "All game matrixes are owned by TRUE SIGMAS (Roblox Corporation)",
     "hello" => "What's Good",
     "recentlyplayed" => "Recently Played",

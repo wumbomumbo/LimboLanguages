@@ -1,5 +1,5 @@
 <?php
-// Default language
+// Furry language, god help us
 $lang = array(
     "games" => "RPs :3",
     "catalog" => "CATalowgue UwU",
@@ -11,7 +11,7 @@ $lang = array(
     "settings" => "Sewttings mrrp",
     "admin" => "Awdmiwn",
     "logout" => "Paw Out",
-    "home" => "Mrrowme"
+    "home" => "Mrrowme",
     "profile" => "Prrowfiwe",
     "messages" => "Messawgews",
     "friends" => "Fwiends OwO",
@@ -130,7 +130,7 @@ $lang = array(
     "createagears" => "Create a Geaws",
     "yourhats" => "Your Accessories",
     "createahat" => "Create a Accessory",
-    "message" => "Messawge :3"
+    "message" => "Messawge :3",
     "statistics" => "Statiwstiwcs x3",
     "joindate" => "Joiwn Date",
     "placevisits" => "RP Visits",
