@@ -187,4 +187,5 @@ $lang = array(
     "yourvideoads" => "您的视频广告",
     "createavideoad" => "制作视频广告",
     "initializing" => "初始化",
+    "noscript" => "抱歉，Limbo 需要 JavaScript 才能正常工作。请在您的浏览器中启用它。",
 );

@@ -188,4 +188,5 @@ $lang = array(
     "createavideoad" => "Create a Video Ad",
     "itemconfiguration" => "Item Configuration",
     "initializing" => "Initializing",
+    "noscript" => "Sorry, Limbo needs JavaScript to work properly. Please enable it in your browser.",
 );

@@ -187,4 +187,5 @@ $lang = array(
     "yourvideoads" => "Yer Own Moving Picture Billboards",
     "createavideoad" => "Hoist a New Moving Picture Billboard",
     "initializing" => "Hoistin' the sails",
+    "noscript" => "Apologies, ye scallywag! Limbo be needin' JavaScript to sail smoothly. Ye best be enablein' it in yer browser, or yer voyage be stuck in the doldrums!",
 );

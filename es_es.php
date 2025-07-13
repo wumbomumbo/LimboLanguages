@@ -187,4 +187,5 @@ $lang = array(
     "yourvideoads" => "Sus anuncios de vídeo",
     "createavideoad" => "Crear un anuncio de vídeo",
     "initializing" => "Inicializando",
+    "noscript" => "Lo sentimos, Limbo necesita JavaScript para funcionar correctamente. Habilítalo en tu navegador.",
 );
