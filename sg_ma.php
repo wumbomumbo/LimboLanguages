@@ -26,6 +26,7 @@ $lang = array(
     "spanish" => "WOKE LIBERAL LANGUAGE 🤮🤮🤮",
     "chinesesimplified" => "WOKE LIBERAL LANGUAGE 🤮🤮🤮",
     "piratespeak" => "WOKE LIBERAL LANGUAGE 🤮🤮🤮",
+    "sigma" => "Sigma",
     "allgameclientsareownedby" => "All game matrixes are owned by TRUE SIGMAS (Roblox Corporation)",
     "hello" => "What's Good",
     "recentlyplayed" => "Recently Played",
@@ -188,4 +189,5 @@ $lang = array(
     "createavideoad" => "Create a Video Marketing Scheme",
     "itemconfiguration" => "Item Configuration",
     "initializing" => "Initializing",
+    "noscript" => "Sorry, Limbo needs JavaScript to work properly. Please enable it in your browser.",
 );
