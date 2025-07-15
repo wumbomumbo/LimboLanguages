@@ -1,5 +1,5 @@
 <?php
-// Default language
+// json language (brainrot)
 $lang = array(
     "games" => "places",
     "catalog" => "buncha items",
@@ -27,6 +27,7 @@ $lang = array(
     "chinesesimplified" => "microsoft bing",
     "piratespeak" => "Arrrrgh",
     "sigma" => "Sigma",
+    "brainrot" => "Brainrot",
     "furryspeak" => "only good one (mine too)",
     "allgameclientsareownedby" => "All poopoo roblox coders on coffee 2 am coding clients by \"road blocks Corporation\".",
     "hello" => "goog",
