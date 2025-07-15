@@ -28,6 +28,7 @@ $lang = array(
     "piratespeak" => "海盗说话",
     "sigma" => "西格玛",
     "furryspeak" => "毛茸茸的说话",
+    "brainrot" => "脑动品",
     "allgameclientsareownedby" =>  "所有游戏客户端均为\"Roblox Corporation\"所有。",
     "hello" =>  "你好",
     "recentlyplayed" =>  "最近播放",

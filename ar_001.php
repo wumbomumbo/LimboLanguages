@@ -28,6 +28,7 @@ $lang = array(
     "piratespeak" => "القراصنة يتكلمون",
     "sigma" => "سيجما",
     "furryspeak" => "كلام فروي",
+    "brainrot" => "البكر",
     "allgameclientsareownedby" => "كل التحميلات ممتلكة من طرف شركة روبلوكس",
     "hello" => "السلام عليكم",
     "recentlyplayed" => "لعبت مؤخرا",

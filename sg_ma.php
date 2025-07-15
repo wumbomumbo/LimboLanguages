@@ -28,6 +28,7 @@ $lang = array(
     "piratespeak" => "WOKE LIBERAL LANGUAGE 🤮🤮🤮",
     "sigma" => "Sigma",
     "furryspeak" => "WOKE LIBERAL LANGUAGE 🤮🤮🤮",
+    "brainrot" => "WOKE LIBERAL LANGUAGE 🤮🤮🤮",
     "allgameclientsareownedby" => "All game matrixes are owned by TRUE SIGMAS (Roblox Corporation)",
     "hello" => "What's Good",
     "recentlyplayed" => "Recently Played",

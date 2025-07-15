@@ -28,6 +28,7 @@ $lang = array(
     "piratespeak" => "Pirate Lingo",
     "sigma" => "Sigma",
     "furryspeak" => "Beast Speak",
+    "brainrot" => "Brain mold",
     "allgameclientsareownedby" => "All game ships be owned by the scallywags at \"Roblox Corporation\".",
     "hello" => "Ahoy",
     "recentlyplayed" => "Sailed Recently",

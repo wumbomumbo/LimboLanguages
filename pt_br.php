@@ -28,6 +28,7 @@ $lang = array(
     "piratespeak" => "Fala pirata",
     "sigma" => "Sigma",
     "furryspeak" => "Fala Furry",
+    "brainrot" => "Brainrot",
     "allgameclientsareownedby" => "Todos os clientes do jogo são propriedade de \"Roblox Corporation\".",
     "hello" => "Olá",
     "recentlyplayed" => "Jogado Recentemente",
