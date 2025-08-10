@@ -193,4 +193,26 @@ $lang = array(
     "noscript" => "抱歉，Limbo 需要 JavaScript 才能正常工作。请在您的浏览器中启用它。",
     "changeabout" => "改变",
     "enteryournewabout" => "输入您的新信息",
+    // split text
+    "somethingnotquiteright" => "有什么不对劲吗？试试 ",
+    "refreshing" => "清爽",
+    "youravatar" => " 你的头像",
+    // end of split text
+    "recent" => "最近的",
+    "clothing" => "衣服",
+    "body" => "身体",
+    "outfits" => "服装",
+    "colors" => "颜色",
+    "noitemsfound" => "未找到任何商品",
+    "recentlyupdatedgames" => "最近更新的游戏",
+    "free" => "自由的",
+    "configure" => "配置",
+    "startplace" => "起始地：",
+    "activedevelop" => "积极的：",
+    "expiresdevelop" => "到期日期 ",
+    "createddevelop" => "创建时间：",
+    // split text
+    "youcangrabthetemplatesfrom" => "您可以从这里获取模板",
+    "shirttemplatehere" => "这里",
+    // end of split text
 );

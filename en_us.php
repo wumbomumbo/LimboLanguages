@@ -204,5 +204,16 @@ $lang = array(
     "body" => "Body",
     "outfits" => "Outfits",
     "colors" => "Colors",
-    "noitemsfound" => "No items found."
+    "noitemsfound" => "No items found.",
+    "recentlyupdatedgames" => "Recently Updated Games",
+    "free" => "Free",
+    "configure" => "Configure",
+    "startplace" => "Start Place: ",
+    "activedevelop" => "Active: ",
+    "expiresdevelop" => "Expires: ",
+    "createddevelop" => "Created: ",
+    // split text
+    "youcangrabthetemplatesfrom" => "You can grab the templates from ",
+    "shirttemplatehere" => "here.",
+    // end of split text
 );

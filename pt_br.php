@@ -193,4 +193,26 @@ $lang = array(
     "noscript" => "Desculpe, o Limbo precisa de JavaScript para funcionar corretamente. Ative-o no seu navegador.",
     "changeabout" => "Mudança Sobre",
     "enteryournewabout" => "Insira seu novo sobre",
+    // split text
+    "somethingnotquiteright" => "Algo não está certo? Tente ",
+    "refreshing" => "refrescante",
+    "youravatar" => " seu avatar.",
+    // end of split text
+    "recent" => "Recente",
+    "clothing" => "Roupas",
+    "body" => "Corpo",
+    "outfits" => "Roupas",
+    "colors" => "Cores",
+    "noitemsfound" => "Nenhum item encontrado.",
+    "recentlyupdatedgames" => "Jogos atualizados recentemente",
+    "free" => "Livre",
+    "configure" => "Configurar",
+    "startplace" => "Local de início: ",
+    "activedevelop" => "Ativo: ",
+    "expiresdevelop" => "Expira em: ",
+    "createddevelop" => "Created: ",
+    // split text
+    "youcangrabthetemplatesfrom" => "Você pode obter os modelos de ",
+    "shirttemplatehere" => "aqui.",
+    // end of split text
 );
